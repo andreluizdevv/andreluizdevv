@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**andreluizdevv/andreluizdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ffffff&center=true&width=650&lines=%F0%9F%91%8B+Oi%2C+eu+sou+o+Andr%C3%A9%21" alt="Oi, eu sou o André Luiz!"/>
+</p>
+Sou estudante de Engenharia de Software,sempre em busca de aprendizado e evolução na área de tecnologia.  
+Tenho interesse especial em Desenvolvimento Front-End, com foco em HTML, CSS e JavaScript.Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+Me considero uma pessoa **esforçado e com vontade de aprender**, sempre procurando crescer como desenvolvedor e transformar ideias em soluções reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>  
